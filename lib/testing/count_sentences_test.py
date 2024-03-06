@@ -45,3 +45,4 @@ class TestMyString:
         assert(simple_string.count_sentences() == 3)
         assert(empty_string.count_sentences() == 0)
         assert(complex_string.count_sentences() == 4)
+    
